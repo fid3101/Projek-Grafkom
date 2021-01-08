@@ -2,6 +2,8 @@
 **Projek Grafika Komputer**
 ___
 
+![alt text](https://github.com/lathifahkk/Projek-Grafkom/blob/main/Screenshoot%20Super%20Trashman/Scene%20Welcome%20Landing.png?raw=true)
+
 **Kelompok 16**
 
 **Paralel 1**
